@@ -1,0 +1,6 @@
+Objetivo: Fazer um programa para calcular o valor gasto com combustível em uma viagem.
+    Variaveis necessárias:
+        -Preço do combustível
+        -Quantos km o veículo faz por litro
+        -Distância entre origem e destino em km
+    
